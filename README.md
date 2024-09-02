@@ -1,7 +1,7 @@
 # Bryan Freedman - Software Engineer and UX Advocate
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Freedman-blue?logo=linkedin&style=flat-square&link=https://www.linkedin.com/in/bryanfreedmancreative/)
-![Email](https://img.shields.io/badge/Email-bryanfreedmancontact%40gmail.com-red?logo=gmail&style=flat-square&link=mailto:bryanfreedmancontact@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bryan%20Freedman-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/bryanfreedmancreative/)
+[![Email](https://img.shields.io/badge/Email-bryanfreedmancontact%40gmail.com-red?logo=gmail&style=flat-square)](mailto:bryanfreedmancontact@gmail.com)
 
 ## About Me
 
