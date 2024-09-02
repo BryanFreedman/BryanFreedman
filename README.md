@@ -31,19 +31,22 @@ My journey has always been guided by a desire to create solutions that are both 
   - **Secure Login**: Auth token based user creation and login.
   - **Transfer Money**: Browse other users and send money to their account by account ID. Graceful error handling if user has insufficient funds. Funds subtracted from origin account and then added to destaination account with BigDecimal mathematics based error handling to ensure correct transfer.
   - **Transaction History**: User is able to see a log of thier transactions, including failed attempts.
-  - 
+    
 ### Vending Machine Software Simulator (Tech Elevator Mini Capstone)
 
 - **Overview**: An abstracted vending machine CLI that simulates all the functions and behaviors of a real vending machine interface.
-- **Technologies used**: Java, JUnit 
+- **Technologies Used**: Java, JUnit 
 - **Key Features**:
   - **Inventory Tracking System**: Interface has knowledge of how many items are in stock and can display this information. Will prevent user from proceeding if item is out of stock using graceful error handling.
   - **Admin Mode**: Owners can enter a secret interface which allows for statistical printouts of purchases.
  
+### Virtual Closet and Weather Based Clothing Recommendation App with Compatibility Scoring System
 
-
-
-
+- **Overview**: An app that recommends items of clothing a user owns based on weather data.
+- **Technologies Used**: Java, (coming soon: PostgreSQL, JavaScript, Vue.js, HTML, CSS, RESTful API)
+- **Key Features**:
+  - **Closet Builder**: The user can add items they own to a virtual closet and include a name, picture, and description; and use sliders to give characteristics about the item including warmth, breathability, and water resistance.
+  - **Item Recommender**: App reads weather data for the user's location, and uses compatibility scoring to recommend items of clothing compatible with the weather forecast.
 
 
 
