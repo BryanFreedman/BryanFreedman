@@ -40,7 +40,7 @@ My journey has always been guided by a desire to create solutions that are both 
   - **Inventory Tracking System**: Interface has knowledge of how many items are in stock and can display this information. Will prevent user from proceeding if item is out of stock using graceful error handling.
   - **Admin Mode**: Owners can enter a secret interface which allows for statistical printouts of purchases.
  
-### Virtual Closet and Weather Based Clothing Recommendation App with Compatibility Scoring System
+### Virtual Closet and Weather Based Clothing Recommendation App with Compatibility Scoring System IN PROGRESS
 
 - **Overview**: An app that recommends items of clothing a user owns based on weather data.
 - **Technologies Used**: Java, (coming soon: PostgreSQL, JavaScript, Vue.js, HTML, CSS, RESTful API)
