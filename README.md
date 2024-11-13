@@ -23,6 +23,14 @@ My journey has always been guided by a desire to create solutions that are both 
 
 **More info: https://docs.google.com/document/d/1c-_uUoFvuG0WQNJB5egESrQ994xBU94mIawxME9Nyn0/edit?usp=sharing**
 
+### Virtual Closet and Weather Based Clothing Recommendation App with Compatibility Scoring System IN PROGRESS
+
+- **Overview**: An app that recommends items of clothing a user owns based on weather data.
+- **Technologies Used**: Java, (coming soon: PostgreSQL, JavaScript, Vue.js, HTML, CSS, RESTful API)
+- **Key Features**:
+  - **Closet Builder**: The user can add items they own to a virtual closet and include a name, picture, and description; and use sliders to give characteristics about the item including warmth, breathability, and water resistance.
+  - **Item Recommender**: App reads weather data for the user's location, and uses compatibility scoring to recommend items of clothing compatible with the weather forecast.
+
 ### Tenmo - Money Transfer App Simulator (Tech Elevator Mini Capstone)
 
 - **Overview**: A CLI based money transfer app simulator that includes much of the funtionality of its parodic namesake.
@@ -40,13 +48,6 @@ My journey has always been guided by a desire to create solutions that are both 
   - **Inventory Tracking System**: Interface has knowledge of how many items are in stock and can display this information. Will prevent user from proceeding if item is out of stock using graceful error handling.
   - **Admin Mode**: Owners can enter a secret interface which allows for statistical printouts of purchases.
  
-### Virtual Closet and Weather Based Clothing Recommendation App with Compatibility Scoring System IN PROGRESS
-
-- **Overview**: An app that recommends items of clothing a user owns based on weather data.
-- **Technologies Used**: Java, (coming soon: PostgreSQL, JavaScript, Vue.js, HTML, CSS, RESTful API)
-- **Key Features**:
-  - **Closet Builder**: The user can add items they own to a virtual closet and include a name, picture, and description; and use sliders to give characteristics about the item including warmth, breathability, and water resistance.
-  - **Item Recommender**: App reads weather data for the user's location, and uses compatibility scoring to recommend items of clothing compatible with the weather forecast.
 
 
 
